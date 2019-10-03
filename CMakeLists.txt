@@ -3,4 +3,4 @@ project(BubbleSort)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BubbleSort main.cpp)
+add_executable(BubbleSort BubbleSort.cpp)
